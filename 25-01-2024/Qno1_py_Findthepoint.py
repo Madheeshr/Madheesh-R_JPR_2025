@@ -1,4 +1,4 @@
-Consider two points,  and . We consider the inversion or point reflection, , of point  across point  to be a  rotation of point  around .
+'''Consider two points,  and . We consider the inversion or point reflection, , of point  across point  to be a  rotation of point  around .
 
 Given  sets of points  and , find  for each pair of points and print two space-separated integers denoting the respective values of  and  on a new line.
 
@@ -27,7 +27,7 @@ Sample Input
 Sample Output
 
 2 2
-3 3
+3 3'''
 
 import math
 import os
